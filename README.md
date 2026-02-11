@@ -1,4 +1,3 @@
-![Project Banner](https://via.placeholder.com/1200x300?text=AI-Enhanced+Version+Control+System)
 
 # 🤖 AI-Based Mini VCS
 
